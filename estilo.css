@@ -1,0 +1,48 @@
+body{
+    background-color:#9dd9e1;
+
+}
+
+h1{
+    text-align: center;
+    color:rgb(114, 34, 34) ;
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+    margin-right: 5%;
+}
+
+ul li{
+    margin-top: 12px;
+}
+
+.imagem-pais{
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.hobby{
+    width:500px;
+    border-radius: 10px;
+}
+
+table{
+    width: 25%;
+    border-radius: 10px;
+    background-color: #689ca3;
+}
+
+td{
+    padding: 12px;
+    text-align: center;
+    border-radius: 10px;
+    font-family: sans-serif;
+}
+
+a:hover{
+    background-color: #0ab88a;
+    cursor: pointer;
+}
